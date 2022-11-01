@@ -1,7 +1,6 @@
-# DR$^2$: Disentangled Recurrent Representation Learning for Data-efficient Speech Video Synthesis
+# DR^2: Disentangled Recurrent Representation Learning for Data-efficient Speech Video Synthesis
 
 ![](img/pipeline1.jpg)
-![](img/mapping.gif)
 
 ## PyTorch implementation:
 
@@ -36,7 +35,7 @@ python test_pose2.py  (--audioname <testaudio> --checkname <checkpoint>)[Add whe
 ```
 python render-smplx-netparams.py 
 ```
-
+![](img/mapping.gif)
 
 
 
