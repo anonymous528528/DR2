@@ -1,2 +1,2 @@
 Please download the training data and place it in this folder
-https://drive.google.com/drive/folders/10bv3oDqA7Vr-ypXJoC-w_apP9ZArF3Kn?usp=sharing
+https://drive.google.com/uc?export=download&id=1bODAO_vchPdh6yOcVh-7KFbpxdjD48s1
