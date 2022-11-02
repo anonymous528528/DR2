@@ -35,8 +35,8 @@ python test_pose2.py  (--audioname <testaudio> --checkname <checkpoint>)[Add whe
 ```
 python render-smplx-netparams.py 
 ```
-<!-- ## One2many Mapping
-![](img/mapping.gif) -->
+## One2many Mapping
+![](img/mapping.gif)
 
 
 
